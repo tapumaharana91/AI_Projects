@@ -1,0 +1,5 @@
+streamlit
+fastapi
+uvicorn
+pandas
+sqlite3  # (built-in with Python, so usually not needed)
